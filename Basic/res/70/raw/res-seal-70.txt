@@ -1,0 +1,180 @@
+BUP seed:1-10
+
+seed-1 acc:0.82576 auc:0.91110 ap:0.90809
+seed-2 acc:0.82955 auc:0.91047 ap:0.90776
+seed-3 acc:0.82955 auc:0.90989 ap:0.90712
+seed-4 acc:0.82955 auc:0.90955 ap:0.90678
+seed-5 acc:0.82576 auc:0.91104 ap:0.90825
+seed-6 acc:0.82576 auc:0.91150 ap:0.90795
+seed-7 acc:0.82955 auc:0.90955 ap:0.90678
+seed-8 acc:0.82576 auc:0.91127 ap:0.90788
+seed-9 acc:0.82955 auc:0.90961 ap:0.90655
+seed-10 acc:0.82576 auc:0.91058 ap:0.90693
+Celegans seed:1-10
+
+seed-1 acc:0.79270 auc:0.87144 ap:0.86280
+seed-2 acc:0.78416 auc:0.86035 ap:0.85125
+seed-3 acc:0.78339 auc:0.86727 ap:0.85988
+seed-4 acc:0.78649 auc:0.86710 ap:0.85841
+seed-5 acc:0.78416 auc:0.86207 ap:0.84653
+seed-6 acc:0.77873 auc:0.85691 ap:0.84561
+seed-7 acc:0.78339 auc:0.86903 ap:0.85922
+seed-8 acc:0.78261 auc:0.85541 ap:0.84259
+seed-9 acc:0.77873 auc:0.85579 ap:0.84490
+seed-10 acc:0.79891 auc:0.87709 ap:0.86477
+USAir seed:1-10
+
+seed-1 acc:0.90345 auc:0.96369 ap:0.96096
+seed-2 acc:0.89874 auc:0.96404 ap:0.96281
+seed-3 acc:0.89560 auc:0.96259 ap:0.96238
+seed-4 acc:0.89482 auc:0.96250 ap:0.96275
+seed-5 acc:0.89011 auc:0.95998 ap:0.95948
+seed-6 acc:0.89482 auc:0.95999 ap:0.95938
+seed-7 acc:0.89874 auc:0.96130 ap:0.96054
+seed-8 acc:0.89403 auc:0.96111 ap:0.96001
+seed-9 acc:0.89717 auc:0.96454 ap:0.96305
+seed-10 acc:0.89717 auc:0.96220 ap:0.96100
+SMG seed:1-10
+
+seed-1 acc:0.83955 auc:0.90468 ap:0.90743
+seed-2 acc:0.83887 auc:0.90207 ap:0.90702
+seed-3 acc:0.83311 auc:0.90978 ap:0.91460
+seed-4 acc:0.83684 auc:0.90739 ap:0.91060
+seed-5 acc:0.83887 auc:0.90721 ap:0.91019
+seed-6 acc:0.83514 auc:0.90694 ap:0.91177
+seed-7 acc:0.84261 auc:0.90934 ap:0.91154
+seed-8 acc:0.83955 auc:0.90767 ap:0.91161
+seed-9 acc:0.83955 auc:0.91031 ap:0.91482
+seed-10 acc:0.83921 auc:0.90594 ap:0.90942
+EML seed:1-10
+
+seed-1 acc:0.84281 auc:0.91186 ap:0.91614
+seed-2 acc:0.83333 auc:0.90973 ap:0.91300
+seed-3 acc:0.84281 auc:0.91106 ap:0.91546
+seed-4 acc:0.83853 auc:0.90978 ap:0.91342
+seed-5 acc:0.84709 auc:0.91359 ap:0.91763
+seed-6 acc:0.83884 auc:0.91035 ap:0.91341
+seed-7 acc:0.84251 auc:0.91409 ap:0.91809
+seed-8 acc:0.83456 auc:0.90815 ap:0.91271
+seed-9 acc:0.83394 auc:0.90428 ap:0.90943
+seed-10 acc:0.83792 auc:0.91051 ap:0.91462
+NSC seed:1-10
+
+seed-1 acc:0.97410 auc:0.99382 ap:0.99455
+seed-2 acc:0.97331 auc:0.99404 ap:0.99486
+seed-3 acc:0.97410 auc:0.99384 ap:0.99457
+seed-4 acc:0.96939 auc:0.99383 ap:0.99460
+seed-5 acc:0.97567 auc:0.99413 ap:0.99481
+seed-6 acc:0.97017 auc:0.99435 ap:0.99459
+seed-7 acc:0.97253 auc:0.99467 ap:0.99492
+seed-8 acc:0.97096 auc:0.99388 ap:0.99467
+seed-9 acc:0.97017 auc:0.99338 ap:0.99403
+seed-10 acc:0.97174 auc:0.99398 ap:0.99473
+YST seed:1-10
+
+seed-1 acc:0.80682 auc:0.89480 ap:0.90789
+seed-2 acc:0.80758 auc:0.89712 ap:0.90935
+seed-3 acc:0.81084 auc:0.89694 ap:0.90888
+seed-4 acc:0.81385 auc:0.89618 ap:0.90887
+seed-5 acc:0.81435 auc:0.89690 ap:0.90943
+seed-6 acc:0.80958 auc:0.89473 ap:0.90686
+seed-7 acc:0.81184 auc:0.89606 ap:0.90891
+seed-8 acc:0.81510 auc:0.89681 ap:0.90993
+seed-9 acc:0.81485 auc:0.89785 ap:0.90929
+seed-10 acc:0.81485 auc:0.89861 ap:0.91095
+Router seed:1-10
+
+seed-1 acc:0.82206 auc:0.91945 ap:0.92595
+seed-2 acc:0.82126 auc:0.91969 ap:0.92540
+seed-3 acc:0.82019 auc:0.91974 ap:0.92606
+seed-4 acc:0.82179 auc:0.91765 ap:0.92520
+seed-5 acc:0.82126 auc:0.91772 ap:0.92505
+seed-6 acc:0.82179 auc:0.92074 ap:0.92691
+seed-7 acc:0.82232 auc:0.92103 ap:0.92755
+seed-8 acc:0.82152 auc:0.91881 ap:0.92471
+seed-9 acc:0.82206 auc:0.92079 ap:0.92701
+seed-10 acc:0.82179 auc:0.91980 ap:0.92638
+Power seed:1-10
+
+seed-1 acc:0.69237 auc:0.76552 ap:0.78951
+seed-2 acc:0.69237 auc:0.76562 ap:0.78973
+seed-3 acc:0.69186 auc:0.76563 ap:0.78957
+seed-4 acc:0.69262 auc:0.76549 ap:0.78951
+seed-5 acc:0.69211 auc:0.76534 ap:0.78947
+seed-6 acc:0.69237 auc:0.76551 ap:0.78957
+seed-7 acc:0.69287 auc:0.76496 ap:0.78893
+seed-8 acc:0.69211 auc:0.76552 ap:0.78955
+seed-9 acc:0.69287 auc:0.76536 ap:0.78936
+seed-10 acc:0.69312 auc:0.76515 ap:0.78900
+KHN seed:1-10
+
+seed-1 acc:0.86697 auc:0.93165 ap:0.94261
+seed-2 acc:0.86291 auc:0.92699 ap:0.93856
+seed-3 acc:0.86409 auc:0.92861 ap:0.93901
+seed-4 acc:0.86553 auc:0.92895 ap:0.94015
+seed-5 acc:0.86671 auc:0.93141 ap:0.94127
+seed-6 acc:0.86632 auc:0.92932 ap:0.94052
+seed-7 acc:0.86619 auc:0.92983 ap:0.94079
+seed-8 acc:0.86173 auc:0.92852 ap:0.93917
+seed-9 acc:0.86317 auc:0.92860 ap:0.93927
+seed-10 acc:0.86448 auc:0.92785 ap:0.93812
+ADV seed:1-10
+
+seed-1 acc:0.88910 auc:0.95162 ap:0.95491
+seed-2 acc:0.88782 auc:0.95134 ap:0.95500
+seed-3 acc:0.88905 auc:0.95188 ap:0.95485
+seed-4 acc:0.88689 auc:0.95029 ap:0.95319
+seed-5 acc:0.89194 auc:0.95327 ap:0.95674
+seed-6 acc:0.88838 auc:0.95183 ap:0.95542
+seed-7 acc:0.88999 auc:0.95230 ap:0.95556
+seed-8 acc:0.89156 auc:0.95301 ap:0.95629
+seed-9 acc:0.88748 auc:0.95014 ap:0.95338
+seed-10 acc:0.88744 auc:0.94949 ap:0.95283
+LDG seed:1-10
+
+seed-1 acc:0.91576 auc:0.96995 ap:0.97044
+seed-2 acc:0.91303 auc:0.96791 ap:0.96900
+seed-3 acc:0.91440 auc:0.96961 ap:0.97001
+seed-4 acc:0.91865 auc:0.97149 ap:0.97259
+seed-5 acc:0.91496 auc:0.96870 ap:0.97083
+seed-6 acc:0.91689 auc:0.97105 ap:0.97232
+seed-7 acc:0.91757 auc:0.97043 ap:0.97038
+seed-8 acc:0.91869 auc:0.97159 ap:0.97295
+seed-9 acc:0.91504 auc:0.96884 ap:0.97069
+seed-10 acc:0.91275 auc:0.96765 ap:0.96886
+HPD seed:1-10
+
+seed-1 acc:0.85102 auc:0.92294 ap:0.93458
+seed-2 acc:0.85081 auc:0.92160 ap:0.93409
+seed-3 acc:0.85303 auc:0.92247 ap:0.93438
+seed-4 acc:0.84895 auc:0.92110 ap:0.93354
+seed-5 acc:0.85194 auc:0.92339 ap:0.93559
+seed-6 acc:0.84751 auc:0.92151 ap:0.93379
+seed-7 acc:0.85127 auc:0.92195 ap:0.93410
+seed-8 acc:0.84988 auc:0.92200 ap:0.93384
+seed-9 acc:0.84607 auc:0.91991 ap:0.93140
+seed-10 acc:0.84385 auc:0.91861 ap:0.93064
+GRQ seed:1-10
+
+seed-1 acc:0.90311 auc:0.96389 ap:0.97094
+seed-2 acc:0.90472 auc:0.96433 ap:0.97122
+seed-3 acc:0.87963 auc:0.94746 ap:0.95779
+seed-4 acc:0.90506 auc:0.96404 ap:0.97109
+seed-5 acc:0.88136 auc:0.94782 ap:0.95806
+seed-6 acc:0.90426 auc:0.96388 ap:0.97098
+seed-7 acc:0.90506 auc:0.96357 ap:0.97068
+seed-8 acc:0.88907 auc:0.95085 ap:0.96162
+seed-9 acc:0.90529 auc:0.96373 ap:0.97094
+seed-10 acc:0.90449 auc:0.96388 ap:0.97093
+ZWL seed:1-10
+
+seed-1 acc:0.92980 auc:0.97635 ap:0.97651
+seed-2 acc:0.92679 auc:0.97486 ap:0.97603
+seed-3 acc:0.93042 auc:0.97668 ap:0.97796
+seed-4 acc:0.93482 auc:0.97836 ap:0.97949
+seed-5 acc:0.93263 auc:0.97700 ap:0.97785
+seed-6 acc:0.93048 auc:0.97683 ap:0.97726
+seed-7 acc:0.93460 auc:0.97828 ap:0.97935
+seed-8 acc:0.93377 auc:0.97866 ap:0.97971
+seed-9 acc:0.93199 auc:0.97715 ap:0.97824
+seed-10 acc:0.93032 auc:0.97650 ap:0.97747
